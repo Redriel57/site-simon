@@ -1,0 +1,6 @@
+{
+    "$schema": "../schema/home.json",
+    "helmetTitle": "Home",
+    "helmetDescription": "Welcome to Simon Renard's official website!",
+    "mainText": ""
+}

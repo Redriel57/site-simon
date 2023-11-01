@@ -1,0 +1,6 @@
+{
+    "$schema": "../schema/home.json",
+    "helmetTitle": "Accueil",
+    "helmetDescription": "Bienvenue sur le site officiel de Simon Renard !",
+    "mainText": ""
+}

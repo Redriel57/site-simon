@@ -1,0 +1,6 @@
+{
+    "$schema": "../schema/header.json",
+    "projects": "Projekts",
+    "music": "Musik",
+    "contacts": "Kontakte"
+}
