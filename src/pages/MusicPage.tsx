@@ -1,3 +1,4 @@
+import React from "react";
 import CustomHelmet from "./CustomHelmet";
 import { useTranslation } from "react-i18next";
 
